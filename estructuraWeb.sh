@@ -1,4 +1,24 @@
 #!/bin/bash
+
+#############################################################################
+# Script: Estructura de directorios página web.                             #
+# Autor: Cralos TYroyano Carmona                                            #            
+# Mail: carlos.troyano.carmona@gmail.com                                    #
+# Descripcion: Crea la estructura:                                          #
+#                                                                           #
+#       audios: archivos de audio mp3.                                      #
+#       css: hojas de estilo css.                                           #
+#       descargas: archivos zip, exe, etc que se ofrecen para descarga.     #
+#       imágenes jpg, gif o png.                                            #
+#       pdf: documentos pdf.                                                #
+#       scripts: archivos js con código javascript reutilizable.            #
+#       swfs: archivos con animaciones flash (*.swf).                       #
+#       vídeos: ficheros en distintos formatos de vídeo: *.wmv, *.flv       #
+#                                                                           #
+#       Uso: estructuraWeb.sh | [-d] (para elminar)                         #
+#                                                                           #
+#############################################################################
+
 clear
 directorios=(
      'audios'

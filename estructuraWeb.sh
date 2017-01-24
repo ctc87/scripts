@@ -2,7 +2,7 @@
 
 #############################################################################
 # Script: Estructura de directorios página web.                             #
-# Autor: Cralos Troyano Carmona                                             #            
+# Autor: Carlos Troyano Carmona                                             #            
 # Mail: carlos.troyano.carmona@gmail.com                                    #
 # Descripcion: Crea la estructura:                                          #
 #                                                                           #
